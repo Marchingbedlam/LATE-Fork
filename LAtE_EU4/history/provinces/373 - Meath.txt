@@ -1,0 +1,26 @@
+#373 - Meath
+
+#owner = ENG
+#controller = ENG
+#add_core= ENG
+#add_core= MTH
+culture = irish
+religion = celticist
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = unknown
+base_manpower = 3
+capital = "Dublin"
+is_city = no
+
+
+
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = indian
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

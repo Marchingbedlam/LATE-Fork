@@ -1,0 +1,27 @@
+# - Santa Catalina
+
+owner = SLT
+controller = SLT
+add_core= SLT
+is_city = yes
+culture = platinean
+
+
+
+discovered_by = south_american 
+discovered_by = andean
+discovered_by = brazilian
+discovered_by = andean
+
+religion = inti
+capital = "Santa Catalina"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

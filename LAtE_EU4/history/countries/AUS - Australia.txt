@@ -1,0 +1,18 @@
+government = monarchy 
+add_government_reform = feudalism_reform
+technology_group = chinese
+religion = animism # dreaming
+primary_culture = strayan
+capital = 1088	# Ballarat
+
+3050.1.1 = {
+	monarch = {
+		name = "Layla"
+		dynasty = "Peters"
+		female = yes
+		birth_date = 3027.2.5
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}

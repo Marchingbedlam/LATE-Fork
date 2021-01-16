@@ -1,0 +1,8 @@
+government = monarchy 
+add_government_reform = feudalism_reform
+primary_culture = malvi
+religion = hinduism
+technology_group = indian
+capital = 526	# Mandu
+add_accepted_culture = rajput
+ 

@@ -1,0 +1,15 @@
+# New Russia
+government = monarchy 
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = novorusskiy
+religion = nousthreskeia
+clear_scripted_personalities = yes
+capital = 2106 #Furdan
+3053.1.1 {
+	capital = 2106 #Furdan
+	add_treasury = 0
+	add_prestige = 4
+}
