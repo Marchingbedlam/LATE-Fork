@@ -1,3 +1,0 @@
-#4328 - Chagai
-discovered_by = indian
-

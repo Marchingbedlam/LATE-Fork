@@ -1,4 +1,0 @@
-#4276 - Jabal Tubaiq
-
-discovered_by = east_african
-discovered_by = indian
