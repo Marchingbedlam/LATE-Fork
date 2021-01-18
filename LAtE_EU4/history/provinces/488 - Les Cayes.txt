@@ -1,6 +1,7 @@
 owner = CBN
 controller = CBN
 add_core = CBN
+capital = "Miragoane"
 culture = haitian
 religion = voodoo
 citysize = 2000

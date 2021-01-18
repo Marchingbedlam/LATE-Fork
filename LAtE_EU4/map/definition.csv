@@ -487,8 +487,8 @@ province;red;green;blue;x;x
 486;69;108;64;Guantamano;x
 487;197;110;128;Jamaica;x
 488;69;112;192;Les Cayes;x
-489;197;114;255;Tortuga;x
-490;70;116;0;Barahonas;x
+489;197;114;255;Artibonite;x
+490;70;116;0;Santo Domingo;x
 491;198;118;64;Curacao;x
 492;70;120;128;Puerto Rico;x
 493;198;122;192;St. Thomas;x
@@ -2656,8 +2656,8 @@ province;red;green;blue;x;x
 2655;171;31;246;Bayamo;x
 2656;108;31;196;Camaguey;x
 2657;234;31;145;Colima;x
-2658;6;15;95;Maguana;x
-2659;132;16;46;Magua;x 	
+2658;6;15;95;Barahona;x
+2659;132;16;46;Santiago;x 	
 2660;69;31;246;Managua;x
 2661;195;31;196;Uluas;x
 2662;27;141;145;Olancho;x

@@ -1,7 +1,7 @@
 #483 - Turks Islands
 
 owner = CBN
-capital = "Grand Turk"
+capital = "Cockburn Town"
 controller = CBN
 add_core = CBN
 culture = west_indian

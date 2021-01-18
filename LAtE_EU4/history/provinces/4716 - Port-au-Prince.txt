@@ -1,7 +1,8 @@
 owner = CBN
 controller = CBN
 add_core = CBN
-culture = dominicano
+capital = "Port-au-Prince"
+culture = haitian
 religion = santeria
 citysize = 2000
 add_core = HAT
@@ -22,7 +23,7 @@ trade_goods = cloth
 3053.1.1 = {
 	owner = CBN
 	controller = CBN
-	culture = dominicano
+	culture = haitian
 	religion = santeria
 	trade_goods = cloth
 }
