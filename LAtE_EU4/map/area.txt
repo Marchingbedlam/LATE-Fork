@@ -3281,11 +3281,11 @@ colorado_plateau_area = { #4
 	# 488 489 490 2658 2659
 # }
 
-greater_antilles_area = { #4
-	487 481 491 492
+ greater_antilles_area = { #4
+	487 481 491 492 5034
 }
 
-lucayan_area = { #2
+ lucayan_area = { #2
 	482 483
 }
 
@@ -3846,11 +3846,15 @@ te_waipounamu_area = { #3
 
 #Carribean
 cuba_area = { #3
-	484 485 4712 4713 4715 
+	484 4713 4715 
+}
+
+central_cuba_area = { #3
+	485 2656 4712 5032 5033
 }
 
 east_cuba_area = { #3
-	486 2654 2655 2656 4714
+	486 2654 2655 4714 5031
 }
 
 hispaniola_area = { #5

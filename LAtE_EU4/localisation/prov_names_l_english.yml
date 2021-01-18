@@ -483,8 +483,8 @@
  PROV482:0 "Bahamas"
  PROV483:0 "Turks Islands"
  PROV484:0 "Havana"
- PROV485:0 "Moron"
- PROV486:0 "Guantanamo"
+ PROV485:0 "Cienfuegos"
+ PROV486:0 "Sierra Maestra"
  PROV487:0 "Jamaica"
  PROV488:0 "Les Cayes"
  PROV489:0 "Artibonite"
@@ -2653,7 +2653,7 @@
  PROV2653:0 "Iximché"
  PROV2654:0 "Baracoa"
  PROV2655:0 "Bayamo"
- PROV2656:0 "Camaguey"
+ PROV2656:0 "Moron"
  PROV2657:0 "Colima"
  PROV2658:0 "Barahona"
  PROV2659:0 "Santiago"
@@ -3967,6 +3967,10 @@
  PROV5028:0 "Salamat"
  PROV5029:0 "Moyen-Chari"
  PROV5030:0 "Cabinda"
+ PROV5031:0 "Holguin"
+ PROV5032:0 "Camaguey"
+ PROV5033:0 "Sancti Spiritus"
+ PROV5034:0 "Cayman"
 
 
 

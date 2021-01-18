@@ -1402,6 +1402,7 @@ central_america_region = {
 carribeans_region = {
 	areas = {
 		cuba_area
+		central_cuba_area
 		east_cuba_area
 		hispaniola_area
 		greater_antilles_area

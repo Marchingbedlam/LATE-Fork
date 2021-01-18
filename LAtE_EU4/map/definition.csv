@@ -483,8 +483,8 @@ province;red;green;blue;x;x
 482;68;100;128;Bahamas;x
 483;197;102;192;Turks Islands;x
 484;69;104;255;Havana;x
-485;197;106;0;Moron;x
-486;69;108;64;Guantamano;x
+485;197;106;0;Cienfuegos;x
+486;69;108;64;Sierra Maestra;x
 487;197;110;128;Jamaica;x
 488;69;112;192;Les Cayes;x
 489;197;114;255;Artibonite;x
@@ -2654,7 +2654,7 @@ province;red;green;blue;x;x
 2653;213;213;95;Iximché;x
 2654;45;131;46;Baracoa;x
 2655;171;31;246;Bayamo;x
-2656;108;31;196;Camaguey;x
+2656;108;31;196;Moron;x
 2657;234;31;145;Colima;x
 2658;6;15;95;Barahona;x
 2659;132;16;46;Santiago;x 	
@@ -4891,5 +4891,9 @@ province;red;green;blue;x;x
 5028;103;97;197;Salamat;x
 5029;103;200;185;Moyen-Chari;x
 5030;100;128;100;Cabinda;x
-
+5031;39;117;40;Holguin;x
+5032;150;24;217;Camaguey;x
+5033;183;113;31;Sancti Spiritus;x
+5034;221;123;143;Cayman;x
+5035;;;;;x
 
