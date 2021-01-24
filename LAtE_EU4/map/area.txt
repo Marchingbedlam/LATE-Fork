@@ -2758,7 +2758,7 @@ banda_oriental_area = { #5
 }
 
 guyana_area = { #4
-	502 743 744 2803 
+	743 744 2803 
 }
 
 suriname_area = { #3
@@ -3280,23 +3280,6 @@ colorado_plateau_area = { #4
 # hispaniola_area = { #5
 	# 488 489 490 2658 2659
 # }
-
- greater_antilles_area = { #4
-	487 481 491 492 5034
-}
-
- lucayan_area = { #2
-	482 483
-}
-
-leeward_islands_area = { #5
-	493 494 495 496 1881
-}
-
-windward_islands_area = { #5
-	497 498 499 500 501
-}
-
 
 #After the End Areas
 
@@ -3846,19 +3829,51 @@ te_waipounamu_area = { #3
 
 #Carribean
 cuba_area = { #3
-	484 4713 4715 
+	484 485 4713 4715 
 }
 
 central_cuba_area = { #3
-	485 2656 4712 5032 5033
+	2656 4712 5032 5033
 }
 
 east_cuba_area = { #3
 	486 2654 2655 4714 5031
 }
 
-hispaniola_area = { #5
-	488 489 490 2658 2659 4716
+haiti_area = { #5
+	488 489 4716 5035 5042
+}
+
+dominica_area = { #5
+	490 2658 2659 5036 5037
+}
+
+puerto_rico_area = { #5
+	492 5044 5045
+}
+
+western_carribean_area = {
+	5038 5039 5040
+}
+
+ jamaica_area = { #4
+	487 5034 5043
+}
+
+ leeward_antilles_area = { #4
+	491 502 5041 
+}
+
+ lucayan_area = { #2
+	481 482 483
+}
+
+leeward_islands_area = { #5
+	493 494 495 496 1881
+}
+
+windward_islands_area = { #5
+	497 498 499 500 501
 }
 
 florida_area = { #3

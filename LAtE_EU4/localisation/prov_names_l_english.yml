@@ -485,7 +485,7 @@
  PROV484:0 "Havana"
  PROV485:0 "Cienfuegos"
  PROV486:0 "Sierra Maestra"
- PROV487:0 "Jamaica"
+ PROV487:0 "Middlesex"
  PROV488:0 "Les Cayes"
  PROV489:0 "Artibonite"
  PROV490:0 "Santo Domingo"
@@ -3971,6 +3971,15 @@
  PROV5032:0 "Camaguey"
  PROV5033:0 "Sancti Spiritus"
  PROV5034:0 "Cayman"
-
-
+ PROV5035:0 "Le Cap"
+ PROV5036:0 "La Romana"
+ PROV5037:0 "La Vega"
+ PROV5038:0 "Cozumel"
+ PROV5039:0 "Islas de la Bahia"
+ PROV5040:0 "San Andres"
+ PROV5041:0 "Isla Margarita"
+ PROV5042:0 "Tortuga"
+ PROV5043:0 "Cornwall"
+ PROV5044:0 "Mayaguez"
+ PROV5045:0 "Guayama"
 

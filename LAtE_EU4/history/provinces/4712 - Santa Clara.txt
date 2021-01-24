@@ -1,7 +1,7 @@
 owner = CBN
 controller = CBN
 add_core = CBN
-culture = west_indian
+culture = cubano
 religion = rastafarian
 citysize = 2000
 add_core = X72
@@ -18,11 +18,4 @@ trade_goods = tobacco
 	base_tax = 7
 	base_production = 7
 	base_manpower = 4
-}
-3053.1.1 = {
-	owner = CBN
-	controller = CBN
-	culture = west_indian
-	religion = rastafarian
-	trade_goods = tobacco
 }

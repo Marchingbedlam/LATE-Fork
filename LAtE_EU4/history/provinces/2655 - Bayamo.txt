@@ -1,7 +1,7 @@
 owner = CBN
 controller = CBN
 add_core = CBN
-culture = cubano
+culture = afrocubano
 religion = santeria
 citysize = 2000
 add_core = X74
@@ -18,11 +18,4 @@ trade_goods = tobacco
 	base_tax = 6
 	base_production = 6
 	base_manpower = 3
-}
-3053.1.1 = {
-	owner = CBN
-	controller = CBN
-	culture = cubano
-	religion = santeria
-	trade_goods = tobacco
 }
