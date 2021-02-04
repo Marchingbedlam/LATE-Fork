@@ -958,6 +958,7 @@ colombia_region = {
 		bogota_area
 		popayan_area
 		panama_area
+		chiriqui_area
 		maracaibo_area
 		central_llanos_area
 		cordillera_occidental_area
@@ -1379,8 +1380,10 @@ rio_grande_region = {
 central_america_region = {
 	areas = {
 		guatemala_area
+		pacifico_area
 		honduras_area
 		nicaragua_area
+		las_brumas_area
 		yucatan_area
 		east_yucatan_area
 		chiapas_area
@@ -1389,6 +1392,7 @@ central_america_region = {
 		#campeche_area
 		#AtE Additions
 		peten_area
+		belize_area
 		salvador_area
 		moskita_area
 		costa_rica_area

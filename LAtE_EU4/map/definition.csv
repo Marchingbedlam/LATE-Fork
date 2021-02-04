@@ -834,12 +834,12 @@ province;red;green;blue;x;x
 833;247;34;192;Graaff-Reinet;x
 834;119;36;255;Barinas;x
 835;128;34;79;Panama;x
-836;0;36;126;Chorotega;x
-837;128;38;173;Nicaragua;x
-838;0;40;32;Mosquito;x
-839;128;42;79;Pipil;x
-840;0;44;126;Honduras;x
-841;129;46;173;Guatemala;x
+836;0;36;126;Golfrito;x
+837;128;38;173;Chinandega;x
+838;0;40;32;Bluefields;x
+839;128;42;79;San Salvador;x
+840;0;44;126;Caratasca;x
+841;129;46;173;Atitlan;x
 842;1;48;32;Petén;x
 843;129;50;79;Belize;x
 844;1;52;126;Zapotec;x
@@ -2634,11 +2634,11 @@ province;red;green;blue;x;x
 2633;146;146;246;Mani;x
 2634;83;119;196;Uaymil;x
 2635;209;219;145;Chiapas;x
-2636;41;15;95;Chacujal;x
-2637;167;37;46;Chortli;x
-2638;104;124;246;Xoconochco;x
+2636;41;15;95;Alta Verapaz;x
+2637;167;37;46;La Ceiba;x
+2638;104;124;246;Soconusco;x
 2639;230;31;196;Raritan;x
-2640;104;54;246;Lenca;x
+2640;104;54;246;Choluteca;x
 2641;240;31;196;Tziccoac;x
 2642;62;45;145;Metztitlan;x
 2643;188;191;95;Apatzingan;x
@@ -2651,7 +2651,7 @@ province;red;green;blue;x;x
 2650;25;31;246;Champutun;x
 2651;150;231;196;Ah Canul;x
 2652;87;31;145;Ecab;x
-2653;213;213;95;Iximché;x
+2653;213;213;95;Guatemala;x
 2654;45;131;46;Baracoa;x
 2655;171;31;246;Bayamo;x
 2656;108;31;196;Moron;x
@@ -2659,10 +2659,10 @@ province;red;green;blue;x;x
 2658;6;15;95;Barahona;x
 2659;132;16;46;Santiago;x 	
 2660;69;31;246;Managua;x
-2661;195;31;196;Uluas;x
+2661;195;31;196;Esteli;x
 2662;27;141;145;Olancho;x
 2663;153;31;95;Nicoya;x
-2664;90;31;46;Veraguas;x
+2664;90;31;46;Chiriqui;x
 2665;216;31;246;Ais;x
 2666;48;31;196;Tuintsundé;x
 2667;174;231;145;Cacaxtes;x
@@ -4616,14 +4616,14 @@ province;red;green;blue;x;x
 4752;133;41;191;Chimalapas;x
 4753;189;224;1;Cancun;x
 4754;145;122;16;Calakmul;x
-4755;51;72;251;Pacifico;x
+4755;51;72;251;Escuintla;x
 4756;123;115;0;Manche;x
 4757;15;162;0;Izabal;x
 4758;129;167;68;Comayuga;x
 4759;219;99;15;Colon;x
 4760;84;43;131;Karata ;x
-4761;217;70;65;Esteli;x
-4762;123;169;36;Matagalpa;x
+4761;217;70;65;Matagalpa;x
+4762;123;169;36;Chontales;x
 4763;69;181;36;El Desaguadero;x
 4764;113;153;181;Limon;x
 4765;233;152;218;Azuero;x
@@ -4906,5 +4906,15 @@ province;red;green;blue;x;x
 5043;205;123;140;Cornwall_JM;x
 5044;89;132;139;Mayaguez;x
 5045;65;112;120;Guayama;x
-5046;;;;;x
+5046;103;31;49;Bocas del Toro;x
+5047;203;32;60;Alajuela;x
+5048;13;53;153;Cartago;x
+5049;28;124;127;Tegucigalpa;x
+5050;139;49;87;San Miguel;x
+5051;51;63;162;Retalhuleu;x
+5052;27;103;77;Chuntuki;x
+5053;13;66;48;Sayaxche;x
+5054;20;79;59;Lacandon;x
+5055;111;41;67;Chetumal;x
+5056;;;;;x
 
