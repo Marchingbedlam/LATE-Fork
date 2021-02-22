@@ -1,5 +1,3 @@
-# - Guasipati
-
 owner = BRZ
 controller = BRZ
 add_core = BRZ
